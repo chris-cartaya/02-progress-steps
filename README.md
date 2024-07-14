@@ -1,4 +1,4 @@
-# Project Title
+# Progress Steps
 
 Short Description.
 
@@ -36,9 +36,9 @@ Feel free to use this project as a reference for your own HTML and CSS projects 
 
 ## Project Timeline
 
-- **Start Date:** MONTH 00, 2024
+- **Start Date:** July 14, 2024
 - **Completion Date:** TBD
-- **Last Modified:** MONTH 00, 2024
+- **Last Modified:** July 14, 2024
 
 <!-- 
 ## To-Do
