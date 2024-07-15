@@ -32,7 +32,7 @@ Check out the live version of this project here: [Progress Steps Demo](https://c
 
 ## Screenshot
 
-!['Progress Steps' Screenshot](images/screenshot.png)
+!['Progress Steps' Screenshot](images/02-progress-steps.png)
 
 ## Usage
 
