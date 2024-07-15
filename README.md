@@ -42,7 +42,7 @@ Feel free to use this project as a reference for your own HTML, CSS, and JavaScr
 ## Project Timeline
 
 - **Start Date:** July 14, 2024
-- **Completion Date:** TBD
+- **Completion Date:** July 15, 2024
 - **Last Modified:** July 14, 2024
 
 <!-- 
