@@ -9,7 +9,7 @@ A simple project to create progress steps that can be used in multi-level forms 
 - [Screenshot](#screenshot)
 - [Usage](#usage)
 - [Project Timeline](#project-timeline)
-- [To-Do](#to-do)
+<!-- - [To-Do](#to-do) -->
 - [Credits](#credits)
 - [License](#license)
 - [Versioning](#versioning)
@@ -48,7 +48,7 @@ Feel free to use this project as a reference for your own HTML, CSS, and JavaScr
 <!-- 
 ## To-Do
 
-- [ ] Example. Increase the opacity transition duration for text on mobile devices to prevent the text from looking like it’s falling down as the panel opens. 
+- [ ] Add any to-do's here.
 -->
 
 ## Credits
